@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnandCh20
-- 👀 I’m interested in Python Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me at anandchaurasia99@gmail.com
 
